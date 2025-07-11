@@ -2,7 +2,7 @@
 
 
 
-# Sou graduanda em Ciência da Computação e iniciante no universo da programaçao.
+#### Sou graduanda em Ciência da Computação e iniciante no universo da programaçao.
 
 
 - :computer: Atualmente, estou estudando na Alura os primeiros passos no universo da tecnologia.
